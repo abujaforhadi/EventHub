@@ -96,7 +96,7 @@ export default function EventDetailsPage() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.3, delay: 0.05 }}
             className="space-y-6"
-          >
+          > 
             <Card className="rounded-2xl">
               <CardHeader className="pb-2">
                 <CardTitle className="text-xl">Details</CardTitle>
